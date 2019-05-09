@@ -1,5 +1,4 @@
-# Object-Oriented-Programming
-Few interesting tasks for exercise
+# Task 1
 
 Operating systems and browsers use DNS Cache - a time table that records all last visited Websites and other Web domains. 
 To model DNS Cache as follows:
