@@ -1,4 +1,4 @@
-# Task 1
+# Task 1 - DNS Cache
 
 Operating systems and browsers use DNS Cache - a time table that records all last visited Websites and other Web domains. 
 To model DNS Cache as follows:
